@@ -1,0 +1,22 @@
+{
+  "name": "intermediate-javascript",
+  "version": "1.0.0",
+  "description": "Intermediate JavaScript Tutorial source code package, where you can look for the JavaScript code that is written by using intermediate style of programming and concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghost160111/Intermediate-JavaScript.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Jaloliddin <jalol100.ghost@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghost160111/Intermediate-JavaScript/issues"
+  },
+  "homepage": "https://github.com/ghost160111/Intermediate-JavaScript#readme"
+}
